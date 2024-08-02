@@ -1,0 +1,6 @@
+@_01_RestWithASP_Calculator_HostAddress = http://localhost:5151
+
+GET {{_01_RestWithASP_Calculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
